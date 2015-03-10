@@ -21,9 +21,9 @@ gems:
 
 
 # Site owner
-owner:
-  name:
-  email:
+owner: "Me"
+  name: "David Leach"
+  email: "colorofsounds@gmail.com"
   twitter:
   google:
     ad-client: 
