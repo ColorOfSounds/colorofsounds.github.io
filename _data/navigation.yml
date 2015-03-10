@@ -1,8 +1,13 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image: 
+- title: Projects
+  url: /projects/
+  excerpt: "Things that are being done"
+  image: 300x200.gif
+  
+- title: AP Outlines
+  url: /ap/
+  except: "For AP resources"
+  image: 300x200.gif
   
   
